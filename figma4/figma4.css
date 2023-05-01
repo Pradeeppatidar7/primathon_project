@@ -93,16 +93,35 @@ top: 3.02%;
 bottom: 86.8%;
 
 } */
-.text {
+.ourServices {
   position: absolute;
   width: 750px;
   height: 177px;
   left: 300px;
-  top: 900px;
+  top: 850px;
   right: 300px;
   text-align: center;
   justify-content: center;
   }
-  .text p {
+/* .section {
+  text-align: center;
+  justify-content: center;
+  padding-left: 310px;
+  padding-right: 310px;
+  margin-top:0px;
+} */
+.hr {
+  height: 3px;
+  width: 40px;
+  background-color: black;
+  margin-left: 350px;
+  margin-top: 10px;
+}
+
+  .text {
     margin-top: 117px;
+    text-align: center;
+    justify-content: center;
+    padding-left: 310px;
+    padding-right: 310px;
   }
